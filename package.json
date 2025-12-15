@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "cirrus",
   "version": "0.1.0",
   "private": true,
@@ -45,5 +46,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.5"
+>>>>>>> c15724c4ae13f22c3dc6e84f09856fe78f4f0205
   }
 }
